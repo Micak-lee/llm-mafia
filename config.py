@@ -30,7 +30,7 @@ config_deepseek = {
 config_tongyi = {
     "config_list": [
         {
-            "model": "qwen-plus-2025-07-28",
+            "model": "qwen-plus-latest",
             "api_key": os.environ.get("TONGYI_API_KEY"),
             "base_url": os.environ.get("TONGYI_BASE_URL"),
             "extra_body": {
