@@ -104,5 +104,3 @@ config_tongyi = {
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to add new roles (Guard, Idiot), improve the Moderator logic, or add a web UI.
-
-## 📄 License[MIT](https://www.google.com/search?q=LICENSE)
